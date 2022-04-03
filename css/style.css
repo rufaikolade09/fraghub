@@ -1,0 +1,55 @@
+body{
+    background-color: #322d2d;
+}
+.navbar{
+    background-color: #ebeb0b !important;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: #000;
+}
+
+.navbar-brand{
+    font-weight: bolder;
+}
+
+.mtop{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.card{
+    background-color: #2e2929;
+}
+
+.col-form-label{
+    color: #fff;
+}
+
+.card-header{
+    color: #fff;
+    font-weight: bolder;
+}
+
+.btn-color{
+    background-color: #ebeb0b;
+    border-color: #ebeb0b;
+    color: #000;
+    font-weight: bolder;
+}
+
+.form-check-label{
+    color: #fff;
+}
+
+.btn-link{
+    color: #ebeb0b;
+}
+
+.user_home{
+    color: #fff;
+}
+
+.user_home a{
+    color: #ebeb0b;
+}
